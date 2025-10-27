@@ -10,9 +10,9 @@ I’m passionate about blending **Artificial Intelligence, Machine Learning, and
 ## 🚀 About Me  
 
 - 🎓 **Pursuing B.Tech in CSE (AI & ML)** at **Takshashila University**  
-- 💡 Currently working on: **AI-powered Career Path Guidance Web App**  
-- 🌱 Currently learning: **Full Stack Web Development & Machine Learning**  
-- 🤝 Looking to collaborate on: **AI-based Web Apps, ML Projects, and Tech-for-Good Initiatives**  
+- 💡 Currently working on: **Python Projects**  
+- 🌱 Currently learning: **Python, Java, DSA & Machine Learning**  
+- 🤝 Looking to collaborate on: **AI-based Web Apps, ML Projects, and Tech-for-Good Initiatives, Health-Tech Innovations**  
 - 📸 Fun fact: I love capturing nature through my phone camera!  
 
 ---
