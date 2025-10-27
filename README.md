@@ -1,70 +1,75 @@
-## Hi there 👋
+# 👋 Hi, I'm Sailesh Chikkam  
 
-<!--
-**saileshchikkam/saileshchikkam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 AI/ML Student | Full Stack Developer | Tech Explorer  
 
-Here are some ideas to get you started:
+Welcome to my GitHub space!  
+I’m passionate about blending **Artificial Intelligence, Machine Learning, and Web Development** to build projects that inspire innovation and make life easier.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-  
-<h2 align="left">Hi 👋! My name is Sailesh and I'm a Techy, from Kakinada </h2>
+## 🚀 About Me  
 
-###
+- 🎓 **Pursuing B.Tech in CSE (AI & ML)** at **Takshashila University**  
+- 💡 Currently working on: **AI-powered Career Path Guidance Web App**  
+- 🌱 Currently learning: **Full Stack Web Development & Machine Learning**  
+- 🤝 Looking to collaborate on: **AI-based Web Apps, ML Projects, and Tech-for-Good Initiatives**  
+- 📸 Fun fact: I love capturing nature through my phone camera!  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🧰 Tech Stack  
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+**Languages:**  
+Python | Java | HTML | CSS | JavaScript  
 
-###
+**Frameworks & Tools:**  
+Flask | React | Node.js | MongoDB | Tailwind CSS | Git | VS Code  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+**Other Interests:**  
+Prompt Engineering | AI-Powered Web Development | Health-Tech Innovations  
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 📫 Connect With Me  
 
-###
+- **Email:** [sailesh.ch118@gmail.com](mailto:sailesh.ch118@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/sailesh-chikkam-ba58952ab](https://www.linkedin.com/in/sailesh-chikkam-ba58952ab/)  
+- **Instagram:** [instagram.com/sailesh_ch_d](https://www.instagram.com/sailesh_ch_d/)  
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## ⚡ GitHub Stats  
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaileshChikkam&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaileshChikkam&theme=radical" alt="GitHub streak" width="48%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaileshChikkam&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 👀 Visitor Count  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaileshChikkam&color=blue&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+## 💬 Daily Developer Quote  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+
+---
+
+### 🌟 “When Ideas Come to Life — Learning Never Ends.”  
+> *Building the future, one project at a time.*
