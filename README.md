@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sailesh Chikkam  
 
-### 🎯 AI/ML Student | Full Stack Developer | Tech Explorer  
+### 🎯 AI/ML Student| Python Programmer | Full Stack Developer | Tech Explorer  
 
 Welcome to my GitHub space!  
 I’m passionate about blending **Artificial Intelligence, Machine Learning, and Web Development** to build projects that inspire innovation and make life easier.  
