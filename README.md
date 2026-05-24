@@ -1,12 +1,3 @@
-<style>
-  /* Antigravity cursor effect on profile hover element */
-  div[align="center"]:hover {
-    cursor: url('https://raw.githubusercontent.com/martinring/github-showcase/master/images/win10_share_wave.gif'), auto;
-    transform: translateY(-5px);
-    transition: transform 0.3s ease-in-out;
-  }
-</style>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SaileshChikkam&color=bf5af2&style=flat-square" alt="Visitor Count" />
 
