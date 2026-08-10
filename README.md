@@ -1,93 +1,245 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaileshChikkam&color=bf5af2&style=flat-square" alt="Visitor Count" />
 
-  <h1>Hi, I'm Sailesh Chikkam <img src="https://raw.githubusercontent.com/martinring/github-showcase/master/images/win10_share_wave.gif" width="30px"></h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=210&section=header&text=SAILESH%20CHIKKAM&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20ENGINEER%20%7C%20LLM%20ENGINEER&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Student;Python+Programmer;Backend+Explorer;Building+the+future+one+project+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+intelligent+systems+that+actually+work.;Machine+Learning+%E2%86%92+LLM+Engineering+%E2%86%92+AI+Full-Stack.;Learn+%E2%86%92+Practice+%E2%86%92+Build+%E2%86%92+Deploy+%E2%86%92+Improve." alt="Typing animation"/>
+
+<p>
+<a href="https://www.linkedin.com/in/sailesh-chikkam-ba58952ab/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8"/></a>
+<a href="mailto:sailesh.ch118@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=f87171"/></a>
+<a href="https://www.instagram.com/sailesh_ch_d/"><img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=f472b6"/></a>
+</p>
+
 </div>
 
 ---
 
-## 🚀 About Me
+## `> whoami`
 
-I am a highly motivated computer science student specializing in **Artificial Intelligence and Machine Learning** at Takshashila University. I thrive on blending algorithmic problem-solving with backend scalability to build intuitive, real-world software applications.
+I’m **Sailesh Chikkam**, a Computer Science student specializing in **Artificial Intelligence & Machine Learning at Takshashila University**.
 
-* 🎓 **Education:** Pursuing B.Tech in CSE (AI & ML) at Takshashila University.
-* 💡 **Current Focus:** Deepening my knowledge in Python architectures, Java development, and Data Structures & Algorithms.
-* 🤝 **Collaboration:** Actively looking to team up on innovative AI-driven web platforms, machine learning models, and health-tech integrations.
-* 📸 **Fun Fact:** When I'm not writing code, I love exploring the outdoors and capturing nature photography through my camera lens.
+I’m building toward **AI/ML Engineering with strong software-engineering foundations**—combining machine learning, LLM systems, backend APIs, databases, and deployment into practical products.
 
----
+```text
+FOCUS
+├── Machine Learning & Deep Learning
+├── Generative AI & LLM Engineering
+├── RAG • Embeddings • Agents • Tool Calling
+├── Python Backend • REST APIs • SQL
+├── Java • DSA • Problem Solving
+└── Docker • Git/GitHub • Deployment
 
-## 🧰 Tech Stack
-
-### 🔤 Languages
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend & Databases
-![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### 🛠️ Developer Tools & IDEs
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143055.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+BUILDING PHILOSOPHY
+Learn → Understand → Implement → Build → Deploy → Measure → Improve
+```
 
 ---
 
-## 🏆 GitHub Trophies
+## ⚡ CURRENTLY BUILDING
+
+### 🧬 ADR AI Platform
+A health-tech oriented AI system focused on **adverse drug reaction workflows**, combining AI/ML with backend engineering and an intuitive web interface.
+
+**Direction:** `Data → ML → LLM → RAG → API → Database → UI → Deployment`
+
+### 🔬 AI Research Paper Accelerator
+A research-oriented AI application designed around paper understanding, summarization, and intelligent interaction with research content.
+
+---
+
+## 📈 52-DAY EXECUTION BOARD
+
+| Track | Daily Target | Status |
+|---|---:|---|
+| 🧠 Machine Learning | **4 h/day** | `ACTIVE` |
+| 🤖 LLM Engineering | **45–60 min/day** | `ACTIVE` |
+| 🛠️ ADR Project | **1 h/day** | `BUILDING` |
+| 💻 DSA | **45 min/day** | `ACTIVE` |
+| 😴 Sleep | **6+ h/day** | `PRIORITY` |
+
+**Core rule:** no course collecting. **Learn → build something with it.**
+
+---
+
+## 🧭 MY ENGINEERING ROADMAP
+
+```text
+                    AI / ML ENGINEER
+                           │
+            ┌──────────────┼──────────────┐
+            ▼              ▼              ▼
+      MACHINE LEARNING   GENAI / LLM   SOFTWARE ENGINEERING
+            │              │              │
+       ML Algorithms      RAG            Python
+       Deep Learning      Agents         FastAPI
+       Evaluation         Embeddings     REST APIs
+       Model Training     Tool Calling   SQL
+                          Fine-tuning     Git
+                                         Docker
+            │              │              │
+            └──────────────┼──────────────┘
+                           ▼
+                    PRODUCTION AI
+                           │
+                 Build • Deploy • Scale
+```
+
+---
+
+## 🧰 TECH STACK
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaileshChikkam&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css"/>
+
+### AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn"/>
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
+
+### Backend / Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb"/>
+
+### Engineering
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea"/>
+
 </div>
 
 ---
 
-## ⚡ GitHub Stats
+## 🚀 FEATURED PROJECTS
+
+| Project | Focus |
+|---|---|
+| 🧬 **ADR AI Platform** | AI + Health-Tech + Full Stack |
+| 🔬 **AI Research Paper Accelerator** | Research + Generative AI |
+| 🛡️ **Hate Speech Detection** | Classical NLP / Machine Learning |
+| 🌐 **Full-Stack Applications** | React + Node.js + APIs + Databases |
+
+---
+
+## 📚 CURRENT LEARNING
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaileshChikkam&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaileshChikkam&theme=tokyonight" alt="GitHub Streak" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaileshChikkam&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img src="https://img.shields.io/badge/Machine%20Learning-IN%20PROGRESS-2563eb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Engineering-IN%20PROGRESS-06b6d4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-LEARNING-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-LEARNING-f59e0b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-DAILY-16a34a?style=for-the-badge"/>
+</div>
+
+> **I don't want to know how to call a model. I want to understand the system around the model.**
+
+`Models → Data → Retrieval → Prompting → Evaluation → APIs → Databases → Deployment`
+
+---
+
+## 🔥 GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=saileshchikkam&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=22c55e&text_color=e2e8f0&rank_icon=github" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saileshchikkam&theme=github-dark-blue&hide_border=true&background=0f172a" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saileshchikkam&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0" width="42%"/>
+
 </div>
 
 ---
 
-## 🤝 Connect With Me
-
-Let's build something exceptional together! You can track my work or reach out for inquiries through the links below:
-
-* 📩 **Email Direct:** [sailesh.ch118@gmail.com](mailto:sailesh.ch118@gmail.com)
-* 💼 **Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/sailesh-chikkam-ba58952ab/)
-* 📸 **Social Media:** [Instagram Profile](https://www.instagram.com/sailesh_ch_d/)
-
-<br />
+## 🐍 CONTRIBUTION FLOW
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sailesh-chikkam-ba58952ab/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/sailesh_ch_d/" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:sailesh.ch118@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-  <br /><br />
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-  
-  <br /><br />
-  
-  <sub>🌟 “When Ideas Come to Life — Learning Never Ends.” | Building the future, one project at a time.</sub>
+<img src="https://raw.githubusercontent.com/saileshchikkam/saileshchikkam/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
 </div>
+
+---
+
+## 🏆 EXPERIENCE & LEADERSHIP
+
+- 🎓 **B.Tech CSE — Artificial Intelligence & Machine Learning**, Takshashila University
+- 🧠 **Machine Learning Internship** — Acmegrade
+- 💻 **Full-Stack Web Development Internship** — Pantech Solutions
+- 🚀 **Vice President — TU Robotics Club**
+- 🏟️ Organized **Khelo Takshashila 2025**
+- 🏆 Participated in technical events, hackathons, workshops, and engineering initiatives
+
+---
+
+## 📜 CERTIFICATIONS & LEARNING
+
+- Supervised Machine Learning — Stanford Online
+- Advanced Learning Algorithms — DeepLearning.AI / Stanford Online
+- Generative AI — IBM
+- Generative AI for Everyone — DeepLearning.AI
+- LLM Engineering — ongoing practical specialization
+
+---
+
+## 📅 LEARNING IN PUBLIC
+
+```text
+                    TODAY
+                      │
+       ┌──────────────┼──────────────┐
+       ▼              ▼              ▼
+   LEARN            BUILD          PRACTICE
+       │              │              │
+       ▼              ▼              ▼
+      ML             ADR            DSA
+      LLM            APIs           Java
+       │              │              │
+       └──────────────┼──────────────┘
+                      ▼
+                  REVIEW
+                      │
+                      ▼
+                 DO IT AGAIN
+```
+
+**The goal isn't a perfect streak. The goal is to keep showing up.**
+
+---
+
+## 💬 DAILY ENGINEERING QUOTE
+
+<div align="center">
+<img src="./assets/daily-quote.svg" alt="Daily engineering quote" width="100%"/>
+</div>
+
+---
+
+## 🎯 2026 MISSION
+
+```text
+[████████████████░░░░] Machine Learning
+[████████████░░░░░░░░] LLM Engineering
+[██████████░░░░░░░░░░] AI Full-Stack
+[████████░░░░░░░░░░░░] DSA
+[██████████░░░░░░░░░░] Production Projects
+```
+
+> **Become an engineer who can take an AI idea from a notebook to a production system.**
+
+---
+
+## 🤝 LET'S CONNECT
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sailesh-chikkam-ba58952ab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8"/></a>
+<a href="mailto:sailesh.ch118@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-0f172a?style=for-the-badge&logo=gmail&logoColor=f87171"/></a>
+<a href="https://www.instagram.com/sailesh_ch_d/"><img src="https://img.shields.io/badge/Instagram-Follow-0f172a?style=for-the-badge&logo=instagram&logoColor=f472b6"/></a>
+
+<br/><br/>
+
+**Learning → Building → Deploying → Improving**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1d4ed8,100:0f172a&height=120&section=footer" width="100%"/>
+
