@@ -1,0 +1,19 @@
+<svg width="1200" height="150" viewBox="0 0 1200 150" xmlns="http://www.w3.org/2000/svg">
+<defs>
+ <linearGradient id="g" x1="0" x2="1">
+  <stop offset="0" stop-color="#5CF2E8"/>
+  <stop offset=".5" stop-color="#8B7CFF"/>
+  <stop offset="1" stop-color="#C6FF4A"/>
+ </linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="150" fill="#030409"/>
+<path d="M0 90 C180 35 260 130 430 75 S720 30 850 82 S1050 130 1200 55" fill="none" stroke="url(#g)" stroke-width="2" opacity=".8" filter="url(#glow)">
+<animate attributeName="d" dur="8s" repeatCount="indefinite"
+values="M0 90 C180 35 260 130 430 75 S720 30 850 82 S1050 130 1200 55;
+M0 65 C180 120 300 25 450 85 S700 135 870 65 S1080 35 1200 95;
+M0 90 C180 35 260 130 430 75 S720 30 850 82 S1050 130 1200 55"/>
+</path>
+<text x="600" y="55" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="5" fill="#64748B">LEARN → BUILD → SHIP → REPEAT</text>
+<text x="600" y="92" text-anchor="middle" font-family="monospace" font-size="14" letter-spacing="3" fill="#EAF2F8">SAILESH CHIKKAM</text>
+</svg>
