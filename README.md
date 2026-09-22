@@ -1,417 +1,315 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:172554,100:06b6d4&height=220&section=header&text=SAILESH%20CHIKKAM&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=AI%20%2F%20ML%20ENGINEER%20%E2%80%A2%20LLM%20ENGINEER&descAlignY=57&descSize=17&animation=fadeIn" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,35:111827,70:312e81,100:06b6d4&height=260&section=header&text=SAILESH%20CHIKKAM&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER%20%E2%80%A2%20LLM%20ENGINEER&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=%5BSYSTEM+ONLINE%5D;Engineering+intelligent+systems+from+data+to+deployment.;Machine+Learning+%E2%86%92+LLMs+%E2%86%92+Agents+%E2%86%92+Production.;Building+AI+systems+that+actually+work." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=67E8F9&center=true&vCenter=true&width=850&height=60&lines=BUILDING+INTELLIGENT+SYSTEMS.;MACHINE+LEARNING+%E2%86%92+LLMs+%E2%86%92+RAG+%E2%86%92+AGENTS;FROM+EXPERIMENTS+TO+PRODUCTION." />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-06b6d4?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20SYSTEMS-7c3aed?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/MODE-BUILDING-22c55e?style=for-the-badge&labelColor=020617"/>
-
-<br><br>
-
+<a href="https://github.com/saileshchikkam">
+<img src="https://img.shields.io/badge/GITHUB-030712?style=for-the-badge&logo=github&logoColor=67E8F9"/>
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/sailesh-chikkam-ba58952ab/">
-<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/LINKEDIN-030712?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/>
 </a>
+&nbsp;
 <a href="mailto:sailesh.ch118@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=f472b6"/>
+<img src="https://img.shields.io/badge/EMAIL-030712?style=for-the-badge&logo=gmail&logoColor=FB7185"/>
 </a>
-<a href="https://www.instagram.com/sailesh_ch_d/">
-<img src="https://img.shields.io/badge/INSTAGRAM-020617?style=for-the-badge&logo=instagram&logoColor=a78bfa"/>
-</a>
+
+<br><br>
+
+`01`   `AI / ML`    `02`   `LLM SYSTEMS`    `03`   `PRODUCTION AI`
+
+<br><br>
 
 </div>
 
 ---
 
-# `01 // SYSTEM.IDENTITY`
+<div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     SYSTEM PROFILE                           │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  NAME        ::  SAILESH CHIKKAM                             │
-│  ROLE        ::  AI / ML ENGINEER                            │
-│  SPECIALITY  ::  LLM ENGINEERING + AI SYSTEMS               │
-│  DOMAIN      ::  MACHINE LEARNING / GENERATIVE AI            │
-│  EDUCATION   ::  B.Tech CSE — AI & ML                        │
-│  INSTITUTION ::  TAKSHASHILA UNIVERSITY                      │
-│                                                              │
-│  STATUS      ::  LEARNING → BUILDING → DEPLOYING             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+### `◉ SYSTEM ONLINE`
 
-I’m a Computer Science student specializing in **Artificial Intelligence & Machine Learning**, building toward AI/ML engineering with strong software-engineering foundations.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4500&pause=1200&color=A3E635&center=true&vCenter=true&width=650&height=35&lines=%5BOK%5D+Machine+Learning;%5BOK%5D+LLM+Engineering;%5BOK%5D+RAG+Systems;%5BACTIVE%5D+Building+Production+AI"/>
 
-My focus is not simply using models.
+</div>
 
-It is understanding the **system around the model**.
+<br>
 
-```text
-DATA
- ↓
-ML
- ↓
-LLM
- ↓
+<div align="center">
+
+# AI / ML ENGINEERING
+
+`Python` `Machine Learning` `Deep Learning` `LLMs` `RAG` `Agents`
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0f172a,100:020617&height=2&section=header" width="75%"/>
+
+### CURRENTLY BUILDING
+
+<br>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🧬 ADR AI PLATFORM
+
+**AI × Health-Tech**
+
+Machine Learning
+LLMs
 RAG
- ↓
-AGENTS
- ↓
-APIs
- ↓
-DATABASES
- ↓
-DEPLOYMENT
- ↓
-MONITORING
- ↓
-IMPROVEMENT
-```
+Backend Systems
 
----
+</td>
 
-# `02 // CURRENT.MISSION`
+<td width="50%" align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    CURRENT MISSION                           ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  PROJECT 01                                                  ║
-║  └─ ADR AI PLATFORM                                          ║
-║                                                              ║
-║     AI + ML + LLM + RAG + BACKEND + DATABASE + UI            ║
-║                                                              ║
-║                                                              ║
-║  PROJECT 02                                                  ║
-║  └─ AI RESEARCH PAPER ACCELERATOR                            ║
-║                                                              ║
-║     RESEARCH + RETRIEVAL + GENERATIVE AI                     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### 🔬 AI RESEARCH ACCELERATOR
 
-### `ADR AI PLATFORM`
+**Research × Generative AI**
 
-An AI-driven platform exploring **adverse drug reaction workflows**, combining machine learning, LLM systems, retrieval, backend engineering, and a modern web interface.
+Retrieval
+NLP
+LLMs
+Intelligent Interaction
 
-```text
-DATA
- ├── Patient / Drug Information
- ├── ADR Signals
- └── Knowledge Sources
-          │
-          ▼
-     ML / NLP LAYER
-          │
-          ▼
-      LLM LAYER
-          │
-          ▼
-      RAG / AGENTS
-          │
-          ▼
-       API LAYER
-          │
-          ▼
-      DATABASE
-          │
-          ▼
-      WEB INTERFACE
-          │
-          ▼
-      DEPLOYMENT
-```
-
----
-
-# `03 // ENGINEERING.STACK`
-
-<div align="center">
-
-### `LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts"/>
-
-### `AI / MACHINE LEARNING`
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn"/>
-
-### `AI SYSTEMS`
-
-<img src="https://img.shields.io/badge/LLMs-020617?style=for-the-badge&logo=openai&logoColor=22d3ee"/>
-<img src="https://img.shields.io/badge/RAG-020617?style=for-the-badge&logoColor=a78bfa"/>
-<img src="https://img.shields.io/badge/AI%20Agents-020617?style=for-the-badge&logoColor=f472b6"/>
-<img src="https://img.shields.io/badge/Embeddings-020617?style=for-the-badge&logoColor=22c55e"/>
-<img src="https://img.shields.io/badge/Vector%20Search-020617?style=for-the-badge&logoColor=f59e0b"/>
-
-### `FULL STACK`
-
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,fastapi"/>
-
-### `DATA`
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb"/>
-
-### `ENGINEERING`
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea"/>
-
-</div>
-
----
-
-# `04 // DEVELOPMENT.PROTOCOL`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                    ENGINEERING LOOP                         │
-└─────────────────────────────────────────────────────────────┘
-
-       ┌───────────┐
-       │   LEARN   │
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │ UNDERSTAND│
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │ IMPLEMENT │
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │   BUILD   │
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │  DEPLOY   │
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │  MEASURE  │
-       └─────┬─────┘
-             ↓
-       ┌───────────┐
-       │  IMPROVE  │
-       └─────┬─────┘
-             │
-             └───────────────↺
-```
-
-> **No course collecting.**
->
-> **Knowledge becomes valuable when it becomes a system.**
-
----
-
-# `05 // ACTIVE.TRAINING`
-
-```text
-┌──────────────────────────────┬───────────────┐
-│ MODULE                       │ STATE         │
-├──────────────────────────────┼───────────────┤
-│ MACHINE LEARNING             │ ██████████░░  │
-│ LLM ENGINEERING              │ ████████░░░░  │
-│ RAG / RETRIEVAL              │ ███████░░░░░  │
-│ AI AGENTS                    │ ██████░░░░░░  │
-│ AI FULL-STACK                │ ████████░░░░  │
-│ DSA / JAVA                   │ ██████░░░░░░  │
-│ PRODUCTION SYSTEMS           │ ███████░░░░░  │
-└──────────────────────────────┴───────────────┘
-```
-
-### Current principle
-
-```text
-MODEL ≠ SYSTEM
-
-MODEL
- +
-DATA
- +
-RETRIEVAL
- +
-PROMPTING
- +
-TOOLS
- +
-MEMORY
- +
-EVALUATION
- +
-API
- +
-DATABASE
- +
-DEPLOYMENT
- =
-AI SYSTEM
-```
-
----
-
-# `06 // PROJECT.ARCHIVE`
-
-| SYSTEM                          | DOMAIN               | CORE TECHNOLOGY               |
-| ------------------------------- | -------------------- | ----------------------------- |
-| `ADR AI PLATFORM`               | AI / Health-Tech     | ML • LLM • RAG • APIs         |
-| `AI RESEARCH PAPER ACCELERATOR` | Research AI          | RAG • NLP • LLM               |
-| `HATE SPEECH DETECTION`         | Classical ML         | NLP • sklearn                 |
-| `FULL-STACK SYSTEMS`            | Software Engineering | React • Node • APIs • DB      |
-| `REPO-MIND.RAG`                 | Developer AI         | Retrieval • Code Intelligence |
-
----
-
-# `07 // EXPERIENCE`
-
-```text
-2024 ────────────────────────────────────────────────► 2026
-
-        MACHINE LEARNING
-              │
-              ▼
-       FULL-STACK DEVELOPMENT
-              │
-              ▼
-        AI / ML ENGINEERING
-              │
-              ▼
-         LLM ENGINEERING
-              │
-              ▼
-       PRODUCTION AI SYSTEMS
-```
-
-* **Machine Learning Intern** — Acmegrade
-* **Full-Stack Web Development Intern** — Pantech Solutions
-* **Vice President** — TU Robotics Club
-* Organized **Khelo Takshashila 2025**
-* Participated in hackathons, technical events, workshops, and engineering initiatives
-
----
-
-# `08 // GITHUB.ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saileshchikkam&show_icons=true&hide_border=true&bg_color=020617&title_color=22d3ee&icon_color=a78bfa&text_color=e2e8f0&rank_icon=github" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saileshchikkam&theme=github-dark-blue&hide_border=true&background=020617" width="49%"/>
+</td>
+</tr>
+</table>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saileshchikkam&layout=compact&hide_border=true&bg_color=020617&title_color=22d3ee&text_color=e2e8f0" width="42%"/>
-
 </div>
 
 ---
-
-# `09 // CONTRIBUTION.MATRIX`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saileshchikkam/saileshchikkam/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+# `TECHNOLOGY.FIELD`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&theme=dark" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,fastapi&theme=dark" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,git,github,postman,vscode,idea&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/AI%20AGENTS-111827?style=for-the-badge&logoColor=A3E635"/>
+<img src="https://img.shields.io/badge/EMBEDDINGS-111827?style=for-the-badge&logoColor=FB7185"/>
 
 </div>
 
 ---
-
-# `10 // 2026.OBJECTIVE`
-
-```text
-MISSION: BECOME A PRODUCTION AI ENGINEER
-
-      ┌─────────────────────────────┐
-      │        AI FOUNDATION        │
-      │       ML + DL + NLP         │
-      └──────────────┬──────────────┘
-                     ↓
-      ┌─────────────────────────────┐
-      │       LLM ENGINEERING       │
-      │   RAG + Agents + Tools      │
-      └──────────────┬──────────────┘
-                     ↓
-      ┌─────────────────────────────┐
-      │      SOFTWARE SYSTEMS       │
-      │ APIs + DB + Git + Docker    │
-      └──────────────┬──────────────┘
-                     ↓
-      ┌─────────────────────────────┐
-      │       PRODUCTION AI         │
-      │       BUILD • DEPLOY        │
-      └─────────────────────────────┘
-```
-
-```text
-[████████████████░░░░] MACHINE LEARNING
-[████████████░░░░░░░░] LLM ENGINEERING
-[██████████░░░░░░░░░░] AI FULL-STACK
-[████████░░░░░░░░░░░░] DSA
-[██████████░░░░░░░░░░] PRODUCTION SYSTEMS
-```
-
----
-
-# `11 // SYSTEM.PHILOSOPHY`
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│        DON'T JUST USE AI.                                │
-│                                                          │
-│        UNDERSTAND IT.                                    │
-│        BUILD WITH IT.                                    │
-│        DEPLOY IT.                                        │
-│        MEASURE IT.                                       │
-│        IMPROVE IT.                                       │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-```
+# `BUILDING > TALKING`
 
-### `LEARNING → BUILDING → DEPLOYING → IMPROVING`
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=800&height=100&lines=DATA+%E2%86%92+MODELS+%E2%86%92+RETRIEVAL;RETRIEVAL+%E2%86%92+REASONING+%E2%86%92+TOOLS;TOOLS+%E2%86%92+APIs+%E2%86%92+DEPLOYMENT;DEPLOYMENT+%E2%86%92+EVALUATION+%E2%86%92+IMPROVEMENT" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+> **I don't want to just call models.**
+> **I want to engineer the systems around them.**
 
 </div>
 
 ---
 
-# `12 // CONNECT`
+<br>
+
+<div align="center">
+
+# `SELECTED.WORK`
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### ADR AI
+
+`ML`
+`LLM`
+`RAG`
+`API`
+
+</td>
+
+<td align="center" width="33%">
+
+### RESEARCH AI
+
+`NLP`
+`RAG`
+`LLM`
+`Research`
+
+</td>
+
+<td align="center" width="33%">
+
+### REPO-MIND
+
+`Code AI`
+`Retrieval`
+`Search`
+`RAG`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# `GITHUB // ACTIVITY`
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=saileshchikkam&show_icons=true&hide_border=true&bg_color=030712&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&ring_color=A3E635&rank_icon=github" width="49%"/>
+
+<img src="https://streak-stats.demolab.com?user=saileshchikkam&theme=dark&hide_border=true&background=030712&ring=67E8F9&fire=FB7185&currStreakLabel=A3E635&sideLabels=A78BFA&dates=64748B" width="49%"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saileshchikkam&layout=donut&hide_border=true&bg_color=030712&title_color=67E8F9&text_color=CBD5E1" width="36%"/>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+# `MATRIX // CONTRIBUTIONS`
+
+<br>
+
+<img src="https://raw.githubusercontent.com/saileshchikkam/saileshchikkam/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=1200&color=A3E635&center=true&vCenter=true&width=700&height=35&lines=%3E+COMMIT.;%3E+EXPERIMENT.;%3E+BREAK.;%3E+FIX.;%3E+SHIP.;%3E+REPEAT." />
+
+</div>
+
+---
+
+<div align="center">
+
+# `CURRENT.DIRECTIVE`
+
+<br>
+
+<img src="https://img.shields.io/badge/01%20MACHINE%20LEARNING-67E8F9?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/02%20LLM%20ENGINEERING-A78BFA?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/03%20RAG-A3E635?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/04%20AI%20AGENTS-FB7185?style=flat-square&labelColor=030712"/>
+
+<br><br>
+
+```text
+BUILD
+       ↓
+DEPLOY
+       ↓
+MEASURE
+       ↓
+IMPROVE
+       ↺
+```
+
+</div>
+
+---
+
+<div align="center">
+
+# `IDENTITY`
+
+<br>
+
+```text
+AI / ML ENGINEER
+        +
+LLM ENGINEER
+        +
+SOFTWARE ENGINEERING
+        =
+PRODUCTION AI
+```
+
+<br>
+
+**Learn less. Build more. Understand deeply.**
+
+</div>
+
+---
+
+<br>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sailesh-chikkam-ba58952ab/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-020617?style=for-the-badge&logo=linkedin&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/CONNECT%20ON-LINKEDIN-030712?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
 </a>
+
+ 
 
 <a href="mailto:sailesh.ch118@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-REACH%20OUT-020617?style=for-the-badge&logo=gmail&logoColor=f472b6"/>
-</a>
-
-<a href="https://www.instagram.com/sailesh_ch_d/">
-<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-020617?style=for-the-badge&logo=instagram&logoColor=a78bfa"/>
+<img src="https://img.shields.io/badge/START-A%20CONVERSATION-030712?style=for-the-badge&logo=gmail&logoColor=FB7185"/>
 </a>
 
 <br><br>
 
-`SYSTEM STATUS :: LEARNING`
+`SAILESH CHIKKAM`
+`AI / ML • LLM • RAG • SOFTWARE`
 
-`PRIMARY DIRECTIVE :: BUILD`
+<br>
 
-`NEXT STATE :: PRODUCTION`
-
-<br><br>
-
-**LEARN → BUILD → DEPLOY → IMPROVE**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,30:312e81,65:06b6d4,100:A3E635&height=140&section=footer" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,45:172554,75:0f172a,100:020617&height=130&section=footer" width="100%"/>
