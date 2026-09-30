@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="450" viewBox="0 0 490 450">
+<rect x="1" y="1" width="488" height="448" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="1" width="488" height="38" rx="10" fill="#161b22"/>
+<circle cx="22" cy="20" r="5" fill="#8b949e"/><circle cx="40" cy="20" r="5" fill="#8b949e"/><circle cx="58" cy="20" r="5" fill="#8b949e"/>
+<text x="80" y="25" font-family="monospace" font-size="14" fill="#c9d1d9">sailesh@github:~</text>
+<g font-family="monospace" font-size="16">
+<text x="25" y="78" opacity="0"><animate attributeName="opacity" from="0" to="1" begin=".25s" dur=".3s" fill="freeze"/><tspan fill="#58a6ff">Now</tspan><tspan fill="#8b949e">       AI / ML Engineer</tspan></text>
+<text x="25" y="120" opacity="0"><animate attributeName="opacity" from="0" to="1" begin=".45s" dur=".3s" fill="freeze"/><tspan fill="#58a6ff">Prev</tspan><tspan fill="#8b949e">      B.Tech CSE - AI &amp; ML</tspan></text>
+<text x="25" y="162" opacity="0"><animate attributeName="opacity" from="0" to="1" begin=".65s" dur=".3s" fill="freeze"/><tspan fill="#58a6ff">Stack</tspan><tspan fill="#8b949e">     Python . Java . C++</tspan></text>
+<text x="25" y="190" fill="#8b949e" opacity="0"><animate attributeName="opacity" from="0" to="1" begin=".75s" dur=".3s" fill="freeze"/>             React . TypeScript . Node.js</text>
+<text x="25" y="218" fill="#8b949e" opacity="0"><animate attributeName="opacity" from="0" to="1" begin=".85s" dur=".3s" fill="freeze"/>             FastAPI . SQL . MongoDB</text>
+<text x="25" y="260" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.05s" dur=".3s" fill="freeze"/><tspan fill="#58a6ff">Focus</tspan><tspan fill="#8b949e">     GenAI . LLMs . RAG</tspan></text>
+<text x="25" y="288" fill="#8b949e" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.15s" dur=".3s" fill="freeze"/>             Agentic AI . Machine Learning</text>
+<text x="25" y="330" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.35s" dur=".3s" fill="freeze"/><tspan fill="#58a6ff">Build</tspan><tspan fill="#8b949e">     OptiForge.AI</tspan></text>
+<text x="25" y="358" fill="#8b949e" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.45s" dur=".3s" fill="freeze"/>             AI Research Paper Accelerator</text>
+<text x="25" y="386" fill="#8b949e" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.55s" dur=".3s" fill="freeze"/>             Agentic Pharma Intelligence Platform</text>
+<text x="25" y="420" fill="#39d353" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.75s" dur=".3s" fill="freeze"/><tspan>$</tspan><tspan fill="#c9d1d9"> building intelligent systems...</tspan></text>
+</g></svg>
