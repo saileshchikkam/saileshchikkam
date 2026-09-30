@@ -15,7 +15,7 @@
 <br>
 <br>
 
-<!-- animated contribution graph: real data, boxes reveal cell by cell
+<!-- animated contribution graph: real data, boxes reveal cell by cell and a snake travels through the gaps
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
 <h3><code>sailesh@github ~ $ ./contributions.sh</code></h3>
