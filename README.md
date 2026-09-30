@@ -1,46 +1,22 @@
-::: {align="center"}
-```{=html}
-<h3>
-```
-`<code>`{=html}sailesh@github \~ \$ ./contributions.sh`</code>`{=html}
-```{=html}
-</h3>
-```
-`<img src="./contrib-heatmap.svg" width="860" />`{=html}
+<div align="center">
 
-`<br>`{=html}`<br>`{=html}
+<h3><code>sailesh@github ~ $ ./contributions.sh</code></h3>
 
-```{=html}
-<h3>
-```
-`<code>`{=html}sailesh@github \~ \$ whoami`</code>`{=html}
-```{=html}
-</h3>
-```
-```{=html}
+<img src="./contrib-heatmap.svg" width="860" />
+
+<br><br>
+
+<h3><code>sailesh@github ~ $ whoami</code></h3>
+
 <table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td valign="top">
-```
-`<img src="./sailesh-ascii.svg" width="370" />`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td valign="top">
-```
-`<img src="./info-card.svg" width="490" />`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
+  <tr>
+    <td valign="top">
+      <img src="./sailesh-ascii.svg" width="370" />
+    </td>
+    <td valign="top">
+      <img src="./info-card.svg" width="490" />
+    </td>
+  </tr>
 </table>
-```
-:::
+
+</div>
