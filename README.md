@@ -1,39 +1,213 @@
 <div align="center">
 
-<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
-     wordmark (wipes in left-to-right, then rocks on its vertical axis). -->
+<!-- PREMIUM PROFILE HERO -->
 
-<h3><code>sailesh@github ~ $ whoami</code></h3>
+<h3><code>SAILESH CHIKKAM</code></h3>
 
+<p><strong>AI / ML Developer &nbsp;·&nbsp; LLM Engineering &nbsp;·&nbsp; Agentic AI</strong></p>
+
+<p>Building intelligent systems, practical AI products,<br>and developer tools that solve real-world problems.</p>
+
+<!-- Preserve existing animated profile artwork -->
 <table>
 <tr>
-<td valign="top"><img src="./sailesh-ascii.svg" width="370" alt="Sailesh Chikkam — ASCII portrait" /></td>
-<td valign="top"><img src="./wordmark.svg" width="490" alt="SAILESH — 3D ASCII wordmark" /></td>
+<td align="center" valign="middle"><img src="./sailesh-ascii.svg" width="340" alt="Animated ASCII Portrait" /></td>
+<td align="center" valign="middle"><img src="./wordmark.svg" width="440" alt="Animated 3D Sailesh Wordmark" /></td>
 </tr>
 </table>
 
 <br>
+
+<a href="https://www.linkedin.com/in/sailesh-chikkam-ba58952ab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/saileshchikkam"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://optiforge-ai.onrender.com"><img src="https://img.shields.io/badge/OptiForge.AI-Explore-334155?style=flat-square&logo=vercel&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=saileshchikkam&label=PROFILE%20VIEWS&color=64748b&style=flat-square" />
+
+</div>
+
+---
+
+## About Me
+
+I am a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning** at Takshashila University, India.
+
+I enjoy transforming ideas into intelligent, usable software through machine learning, large language models, retrieval systems, and full-stack engineering.
+
+My interests lie at the intersection of **AI research, LLM engineering, agentic systems, and practical software development.**
+
+- 🎓 B.Tech in CSE (AI & ML) — Class of 2027
+- 🧠 Exploring LLMs, RAG, AI Agents and Applied ML
+- 🔭 Building APIP — Agentic Pharma Intelligence Platform
+- ⚙️ Developing AI-powered tools and production-oriented APIs
+- 📚 Strengthening DSA, system design and AI engineering
+- 🎯 Aspiring AI / ML Engineer and Software Developer
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 APIP
+**Agentic Pharma Intelligence Platform**
+
+A multi-agent AI platform for patient assistance, adverse drug reaction reporting, and pharmacovigilance decision support.
+
+**Focus:** Multi-Agent AI · RAG · NLP · FastAPI
+
+`In Active Development`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 ResearchMind AI
+**AI Research Paper Accelerator**
+
+An AI-assisted research workspace for document analysis, retrieval, summarization, and research productivity.
+
+**Stack:** React · TypeScript · LLMs · RAG · Node.js
+
+[Live Application](https://ai-research-paper-acceleratorr.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ OptiForge.AI
+**Intelligent Code Optimization**
+
+An AI-assisted source code optimization workflow with analysis, transformation, validation, and benchmarking.
+
+**Stack:** Python · Java · C++ · LLMs
+
+[Explore Application](https://optiforge-ai.onrender.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔎 Vision Lens
+**Computer Vision Project**
+
+An exploration of intelligent visual analysis and AI-powered image understanding.
+
+**Focus:** Computer Vision · Python · AI/ML
+
+`Project Showcase`
+
+</td>
+</tr>
+</table>
+
+<p align="center"><a href="https://github.com/saileshchikkam?tab=repositories"><strong>Explore All Repositories →</strong></a></p>
+
+---
+
+## Technical Expertise
+
+### Programming Languages
+
+<p><img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts&theme=light" /></p>
+
+### AI, Machine Learning & Data
+
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&theme=light" /></p>
+
+`NumPy` · `Pandas` · `NLTK` · `Matplotlib` · `Machine Learning` · `NLP`
+
+### LLM Engineering & Agentic AI
+
+`LLMs` · `RAG` · `LangChain` · `LangGraph` · `FAISS` · `ChromaDB` · `Prompt Engineering` · `AI Agents` · `Ollama` · `Groq`
+
+### Full-Stack Development
+
+<p><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nodejs,express,fastapi,flask&theme=light" /></p>
+
+### Databases, Tools & Deployment
+
+<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase,git,github,docker,vercel,vscode&theme=light" /></p>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saileshchikkam&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub Statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saileshchikkam&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most Used Languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=saileshchikkam&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<p><code>~/github $ ./contributions.sh</code></p>
+
+<!-- Existing animated SVG: generated by repository workflow -->
+<img src="./contrib-heatmap.svg" width="100%" alt="Animated GitHub Contribution Heatmap" />
+
 <br>
 
-<!-- animated contribution graph: real data, boxes reveal cell by cell and a snake travels through the gaps
-     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+<sub>Consistency, curiosity, and continuous improvement.</sub>
 
-<h3><code>sailesh@github ~ $ ./contributions.sh</code></h3>
+</div>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Sailesh's GitHub contribution graph — auto-refreshed daily" />
+---
 
-<br>
-<br>
+## Currently Building & Learning
 
-<h3><code>sailesh@github ~ $ ./links.sh</code></h3>
+| Focus Area | Current Direction |
+|:---|:---|
+| Agentic AI | Multi-agent workflows and orchestration |
+| LLM Engineering | RAG pipelines, evaluation and reliability |
+| Machine Learning | Model evaluation and practical ML systems |
+| Backend Engineering | FastAPI, APIs and scalable architecture |
+| Software Engineering | DSA, problem-solving and clean code |
+| Open Source | Building, documenting and sharing projects |
 
-<p><b>AI/ML Engineer | Building Intelligent Systems with LLMs, RAG &amp; Agentic AI</b></p>
+### Development Philosophy
 
-[![OptiForge.AI](https://img.shields.io/badge/OptiForge.AI-0d1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)](https://optiforge-ai.onrender.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sailesh--chikkam-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/sailesh-chikkam-ba58952ab/)
-[![Instagram](https://img.shields.io/badge/Instagram-sailesh__ch__d-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://www.instagram.com/sailesh_ch_d/)
-[![GitHub](https://img.shields.io/badge/GitHub-saileshchikkam-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/saileshchikkam)
+> Learn deeply. Build consistently. Validate carefully. Improve continuously.
 
-<br>
+I believe the best way to understand technology is to **build with it, break it, understand it, and build it better.**
+
+---
+
+## Leadership & Beyond Code
+
+- Robotics Club — Student leadership and technical activities
+- Health Club — Student leadership and event organization
+- Organized collaborative events, workshops, and student initiatives
+- Interested in teamwork, mentorship, and continuous learning
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+I'm open to connecting with developers, researchers, and people building meaningful AI-powered products.
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/sailesh-chikkam-ba58952ab/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/saileshchikkam"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br><br>
+
+<sub>Designed with purpose. Built through curiosity.</sub>
 
 </div>
