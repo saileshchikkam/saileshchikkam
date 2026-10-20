@@ -8,8 +8,8 @@
 
 <p>Building intelligent systems, practical AI products,<br>and developer tools that solve real-world problems.</p>
 
-<!-- Animated particles form a neural sphere, then a two-line name -->
-<p><img src="./neural-identity-v1.svg" width="100%" alt="White particles form a rotating neural sphere and transform into SAILESH above CHIKKAM" /></p>
+<!-- Animated neural sphere resolves into a lowercase handwritten signature -->
+<p><img src="./neural-signature-v2.svg" width="100%" alt="White particles form a neural sphere and reveal sailesh chikkam in lowercase cursive on one line" /></p>
 
 <p>
 <a href="https://www.linkedin.com/in/sailesh-chikkam-ba58952ab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
