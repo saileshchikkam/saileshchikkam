@@ -8,8 +8,8 @@
 
 <p>Building intelligent systems, practical AI products,<br>and developer tools that solve real-world problems.</p>
 
-<!-- Animated neural sphere resolves into a lowercase handwritten signature -->
-<p><img src="./neural-handwritten-v4.svg" width="100%" alt="White particles form a neural sphere and reveal sailesh chikkam as a single-line handwritten signature" /></p>
+<!-- Compact animated handwritten signature -->
+<p><img src="./handwritten-signature-compact-v5.svg" width="100%" alt="sailesh chikkam writes itself as a lowercase handwritten signature" /></p>
 
 <p>
 <a href="https://www.linkedin.com/in/sailesh-chikkam-ba58952ab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
