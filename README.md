@@ -8,8 +8,8 @@
 
 <p>Building intelligent systems, practical AI products,<br>and developer tools that solve real-world problems.</p>
 
-<!-- Full-width monochrome two-line dot-matrix name -->
-<p><img src="./sailesh-chikkam-monochrome-stacked.svg" width="100%" alt="SAILESH on top and CHIKKAM below in white dot-matrix lettering on black" /></p>
+<!-- Animated particles form a neural sphere, then a two-line name -->
+<p><img src="./neural-identity-v1.svg" width="100%" alt="White particles form a rotating neural sphere and transform into SAILESH above CHIKKAM" /></p>
 
 <p>
 <a href="https://www.linkedin.com/in/sailesh-chikkam-ba58952ab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
