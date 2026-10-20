@@ -16,15 +16,13 @@
 </tr>
 </table>
 
-<br>
-
-<a href="https://www.linkedin.com/in/sailesh-chikkam-ba58952ab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/saileshchikkam"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="https://optiforge-ai.onrender.com"><img src="https://img.shields.io/badge/OptiForge.AI-Explore-334155?style=flat-square&logo=vercel&logoColor=white" /></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=saileshchikkam&label=PROFILE%20VIEWS&color=64748b&style=flat-square" />
+<p>
+<a href="https://www.linkedin.com/in/sailesh-chikkam-ba58952ab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://github.com/saileshchikkam?tab=repositories"><img src="https://img.shields.io/badge/GitHub-My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub projects" /></a>
+<a href="https://optiforge-ai.onrender.com"><img src="https://img.shields.io/badge/OptiForge.AI-Try_It-334155?style=for-the-badge&logo=vercel&logoColor=white" alt="Try OptiForge AI" /></a>
+</p>
+<p><strong>Explore my work:</strong> <a href="https://ai-research-paper-acceleratorr.vercel.app">ResearchMind AI</a> &nbsp;·&nbsp; <a href="https://optiforge-ai.onrender.com">OptiForge.AI</a> &nbsp;·&nbsp; <a href="https://github.com/saileshchikkam?tab=repositories">All repositories</a></p>
+<img src="https://komarev.com/ghpvc/?username=saileshchikkam&label=PROFILE%20VIEWS&color=64748b&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -138,13 +136,11 @@ An exploration of intelligent visual analysis and AI-powered image understanding
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saileshchikkam&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub Statistics" />
+<a href="https://github.com/saileshchikkam?tab=overview"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saileshchikkam&theme=github_dark" alt="GitHub contribution activity and profile summary" /></a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saileshchikkam&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most Used Languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saileshchikkam&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most Used Languages" />
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=saileshchikkam&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
+<img width="48%" src="https://streak-stats.demolab.com?user=saileshchikkam&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -201,15 +197,15 @@ I believe the best way to understand technology is to **build with it, break it,
 
 <div align="center">
 
-I'm open to connecting with developers, researchers, and people building meaningful AI-powered products.
+<p><strong>Have an AI project, collaboration, or opportunity in mind?</strong><br>Let's talk about practical AI, developer tools, and ideas worth building.</p>
 
-<br><br>
+<p>
+<a href="https://www.linkedin.com/in/sailesh-chikkam-ba58952ab/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message me on LinkedIn" /></a>
+<a href="https://github.com/saileshchikkam"><img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow my work on GitHub" /></a>
+</p>
 
-<a href="https://www.linkedin.com/in/sailesh-chikkam-ba58952ab/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/saileshchikkam"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<p><a href="https://www.linkedin.com/in/sailesh-chikkam-ba58952ab/">Professional connections</a> &nbsp;·&nbsp; <a href="https://github.com/saileshchikkam?tab=repositories">Open-source projects</a> &nbsp;·&nbsp; <a href="https://ai-research-paper-acceleratorr.vercel.app">ResearchMind AI</a> &nbsp;·&nbsp; <a href="https://optiforge-ai.onrender.com">OptiForge.AI</a></p>
 
-<br><br>
-
-<sub>Designed with purpose. Built through curiosity.</sub>
+<sub>AI / ML · LLM Engineering · Agentic AI · Full-Stack Development</sub>
 
 </div>
