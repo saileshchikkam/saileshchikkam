@@ -15,7 +15,7 @@
 <a href="https://www.linkedin.com/in/sailesh-chikkam-ba58952ab/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 <a href="https://github.com/saileshchikkam?tab=repositories"><img src="https://img.shields.io/badge/GitHub-My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub projects" /></a>
 <a href="https://optiforge-ai.onrender.com"><img src="https://img.shields.io/badge/OptiForge.AI-Try_It-334155?style=for-the-badge&logo=vercel&logoColor=white" alt="Try OptiForge AI" /></a>
-<a href="https://github.com/saileshchikkam/SideDock/actions/runs/45848413201"><img src="https://img.shields.io/badge/SideDock-Get_for_Windows-30343A?style=for-the-badge&logo=windows&logoColor=white" alt="Download SideDock for Windows" /></a>
+<a href="https://github.com/saileshchikkam/SideDock/releases/download/v1.0.0/SideDock-Setup-1.0.0.exe"><img src="https://img.shields.io/badge/SideDock-Install_for_Windows-30343A?style=for-the-badge&logo=windows&logoColor=white" alt="Download official SideDock setup EXE directly" /></a>
 </p>
 <p><strong>Explore my work:</strong> <a href="https://ai-research-paper-acceleratorr.vercel.app">ResearchMind AI</a> &nbsp;·&nbsp; <a href="https://optiforge-ai.onrender.com">OptiForge.AI</a> &nbsp;·&nbsp; <a href="https://github.com/saileshchikkam/SideDock">SideDock for Windows</a> &nbsp;·&nbsp; <a href="https://github.com/saileshchikkam?tab=repositories">All repositories</a></p>
 <img src="https://komarev.com/ghpvc/?username=saileshchikkam&label=PROFILE%20VIEWS&color=64748b&style=flat-square" alt="Profile views" />
@@ -55,7 +55,7 @@ My interests lie at the intersection of **AI research, LLM engineering, agentic 
 
 <p align="center">
   <a href="https://github.com/saileshchikkam/SideDock"><img src="https://img.shields.io/badge/Explore_SideDock-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore SideDock on GitHub" /></a>
-  <a href="https://github.com/saileshchikkam/SideDock/actions/runs/45848413201"><img src="https://img.shields.io/badge/Download-Windows_Installer-2563EB?style=for-the-badge&logo=windows&logoColor=white" alt="Get SideDock Windows installer from the verified GitHub Actions build" /></a>
+  <a href="https://github.com/saileshchikkam/SideDock/releases/download/v1.0.0/SideDock-Setup-1.0.0.exe"><img src="https://img.shields.io/badge/INSTALL%20SIDEDOCK-Download%20Windows%20EXE-2563EB?style=for-the-badge&logo=windows&logoColor=white" width="460" alt="Install SideDock here — download the Windows setup EXE directly" /></a>
 </p>
 
 **SideDock — Everything you copy. One edge away.** A minimal, auto-hiding Windows side panel I built to keep everyday work moving without constantly switching windows.
@@ -67,7 +67,7 @@ My interests lie at the intersection of **AI research, LLM engineering, agentic 
 
 **For developers:** Reuse code snippets, commands, error messages and reference files. **For everyone:** Keep links, notes, screenshots and repeat-paste items within easy reach.
 
-**Download:** Open the [verified Windows build](https://github.com/saileshchikkam/SideDock/actions/runs/45848413201) → under **Artifacts**, choose **SideDock-Windows-Installer** → extract the ZIP and run `SideDock-Setup-1.0.0.exe`. GitHub may require sign-in. The artifact contains **one installer**, but GitHub Actions wraps it in a ZIP and artifacts can expire. For future builds, use the [Windows download workflow](https://github.com/saileshchikkam/SideDock/actions/workflows/windows-build.yml). A direct GitHub Release `.exe` asset is **not yet published**.
+**Get SideDock:** Click **Install SideDock** above to [download the official Windows setup EXE](https://github.com/saileshchikkam/SideDock/releases/download/v1.0.0/SideDock-Setup-1.0.0.exe) immediately. No GitHub sign-in, build page or ZIP extraction required. After downloading, open the EXE and approve Windows installation; browsers cannot install applications silently. The release is [SideDock v1.0.0](https://github.com/saileshchikkam/SideDock/releases/tag/v1.0.0). This installer is unsigned and may trigger Microsoft Defender SmartScreen—check the [safe installation guide](https://github.com/saileshchikkam/SideDock/blob/main/docs/INSTALLATION.md) before running it.
 
 **[Full features, shortcuts and safe installation guide →](https://github.com/saileshchikkam/SideDock#install-sidedock)**
 
